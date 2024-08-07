@@ -38,6 +38,22 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 4. [![cheems](https://img.shields.io/badge/deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
-## `For Termux & Panel User, Download This👇`
-- [`Click Here`]
+## `For Termux 
+Download This👇`
+- [`Click Here`](https://shrinkme.dev/04Sk)
 
+## `For Termux/Ssh/Ubuntu`
+      NPM
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install git -y
+pkg install nodejs -y  
+pkg install wget
+pkg install yarn
+termux-setup-storage by
+cd /sdcard  
+cd v15
+yarn install
+npm start 
