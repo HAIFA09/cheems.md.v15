@@ -19,5 +19,5 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 
-[Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dream-guy-yato/Cheems-bot-15.5/)
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dream-guy-yato/Cheems-bot-15.5/)
 
