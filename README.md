@@ -34,8 +34,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ### DEPLOY ON TOYSTACK.AI
 1. Deploy.
 2. . If you don't have an account in toystack.ai, create one.
-    <br>
-    <a href='https://dashboard.toystack.ai="_blank"><img alt='Toystack.ai' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-    
+3. (https://img.shields.io/badge/elisa_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
