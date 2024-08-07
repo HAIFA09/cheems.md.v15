@@ -31,7 +31,11 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-
+### DEPLOY ON TOYSTACK.AI
+1. Deploy.
+2. . If you don't have an account in toystack.ai, create one.
+    <br>
+    <a href='https://dashboard.toystack.ai/login="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
 
 
