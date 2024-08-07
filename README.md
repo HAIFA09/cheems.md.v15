@@ -34,6 +34,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ### DEPLOY ON TOYSTACK.AI
 1. Deploy.
 2. . If you don't have an account in toystack.ai, create one.
-3. [![cheems](https://img.shields.io/badge/deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+3. 
+4. [![cheems](https://img.shields.io/badge/deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
+
+## `For Termux & Panel User, Download This👇`
+- [`Click Here`]
 
