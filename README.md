@@ -40,10 +40,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## `For Termux 
 Download This👇`
-- [`Click Here`](https://shrinkme.dev/04Sk)
+- [`Click Here`](https://shrinkme.dev/04Sk)  x5
+   
 
 ## `For Termux/Ssh/Ubuntu`
-      NPM
+      termux cmd
 apt update
 
 apt upgrade
