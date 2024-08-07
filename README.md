@@ -45,15 +45,28 @@ Download This👇`
 ## `For Termux/Ssh/Ubuntu`
       NPM
 apt update
+
 apt upgrade
+
 pkg update && pkg upgrade
+
 pkg install bash
+
 pkg install git -y
+
 pkg install nodejs -y  
+
 pkg install wget
+
 pkg install yarn
+
 termux-setup-storage by
+
 cd /sdcard  
+
 cd v15
+
 yarn install
+
 npm start 
+
