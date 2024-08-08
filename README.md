@@ -48,7 +48,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 1. Deploy.
     <br>
-    <a href='https://dashboard.scalingo.com/login="_blank"><img alt='Scalingo' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+# <a href="https://auth.scalingo.com/users/sign_up"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON SCALINGO-h?color=red&style=for-the-badge&logo=msi"></a>
 
 
 
