@@ -43,10 +43,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `For Termux 
 Download This👇`
 - [`Click Here`](https://shrinkme.dev/04Sk)  x5
-  
-## `Deploy tutorial for termux`
-  watch tutorial for têrmux 
-https://youtu.be/RT0-AMBVwJg
 
 ## `For Termux/Ssh/Ubuntu`
          bash
