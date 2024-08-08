@@ -8,14 +8,17 @@
 
 - FORK THE REPOSITORY [Here](https://github.com/Dream-guy-yato/Cheems-bot-15.5)
 
+
 ## `Generate Pair Code For Session`
 [![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
+
 
 ### DEPLOY ON RENDER
 
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+
 
 ### DEPLOY ON HEROKU
 
@@ -25,6 +28,8 @@
 2. Now deploy.
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/Dream-guy-yato/cheems.md.v15' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
 ## ` BUILDPACKS`
 
 ```
