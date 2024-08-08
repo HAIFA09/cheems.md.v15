@@ -42,6 +42,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 2. . If you don't have an account in toystack.ai, create one.
 4. [![cheems](https://img.shields.io/badge/deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
+
+### DEPLOY ON SCALINGO 
+
+
+
+
+
 ## `Termux Update`
 - [`Click Here`](https://shrinkme.us/NGUEriv)
 
