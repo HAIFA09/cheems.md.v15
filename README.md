@@ -43,9 +43,12 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 4. [![cheems](https://img.shields.io/badge/deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
-### DEPLOY ON SCALINGO 
+### DEPLOY ON SCALINGO
+ If you don't have an account in scalingo, create one.
 
-
+1. Deploy.
+    <br>
+    <a href='https://dashboard.scalingo.com/login="_blank"><img alt='Scalingo' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
