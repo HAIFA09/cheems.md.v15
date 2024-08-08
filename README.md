@@ -44,7 +44,7 @@ Download This👇`
    
 
 ## `For Termux/Ssh/Ubuntu`
-      termux cmd
+         bash
 apt update
 
 apt upgrade
@@ -70,4 +70,11 @@ cd v15
 yarn install
 
 npm start 
+
+
+
+
+<a href="https://www.instagram.com/dream_guy_yato?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
 
