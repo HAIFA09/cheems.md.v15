@@ -7,7 +7,7 @@
 # Setup For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/Dream-guy-yato/Cheems-bot-15.5)
-- 
+
 ## `Generate Pair Code For Session`
 [![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
 
