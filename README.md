@@ -62,7 +62,7 @@ pkg install wget
 
 pkg install yarn
 
-termux-setup-storage by
+termux-setup-storage 
 
 cd /sdcard  
 
