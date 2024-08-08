@@ -85,5 +85,5 @@ npm start
 <a href="https://www.instagram.com/_dream_guy_yato_?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
-type="button">Base  - By CHEEMS BOTZ</button></div>
+Base  - By CHEEMS BOTZ</button></div>
 <a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
