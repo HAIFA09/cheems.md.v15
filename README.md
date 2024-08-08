@@ -85,7 +85,10 @@ npm start
 
 <a href="https://www.instagram.com/_dream_guy_yato_?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
+<a href="https://wa.me/916009259402"><img src="https://img.shields.io/badge/Contact Dg Yato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/
 
+    
 ## 📛 `OWNER` 
 <a href="https://github.com/Dream-guy-yato"><img src="https://github.com/Dream-guy-yato.png" width="250" height="250" alt="Salman Ahmad"/></a>
 
